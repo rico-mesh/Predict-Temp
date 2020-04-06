@@ -3,7 +3,5 @@ Download Global Temperature data from kaggle.Clean ,Analyse and Predict future t
 
 #Libraries used 
 
-pandas
-numpy  
-matplotlib.plt
+pandas, numpy ,matplotlib(matplotlib.plt) ,sklearn(sklearn.linear_model import LinearRegression as Linreg)
 
